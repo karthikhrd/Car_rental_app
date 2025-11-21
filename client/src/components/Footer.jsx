@@ -59,7 +59,7 @@ const Footer = () => {
                         <li><a href="#">Home</a></li>
                         <li><a href="#">Browse Cars</a></li>
                         <li><a href="#">List Your Car</a></li>
-                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">About Bengaluru Cars</a></li>
                     </ul>
                 </div>
 
@@ -76,10 +76,10 @@ const Footer = () => {
                 <div>
                     <h2 className='text-base font-medium text-gray-800 uppercase'>Contact</h2>
                     <ul className='mt-3 flex flex-col gap-1.5'>
-                        <li>1234 Luxury Drive</li>
-                        <li>San Francisco, CA 94107</li>
-                        <li>+1 234 567890</li>
-                        <li>info@example.com</li>
+                        <li>ಪ್ರೀಮಿಯಂ ವೀಲ್ಸ್ ಅವೆನ್ಯೂ</li>
+                        <li>Bengaluru, Karnataka</li>
+                        <li>+91 88954 22110</li>
+                        <li>info@bengalurucars.co</li>
                     </ul>
                 </div>
 
